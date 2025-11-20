@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Gerenciador de Tarefas (Projeto Acadêmico)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este repositório contém o código-fonte de uma aplicação básica de gerenciamento de tarefas desenvolvida em ReactJS. Este projeto foi criado com o objetivo de demonstrar a proficiência no desenvolvimento de componentes reutilizáveis e no gerenciamento de estado global da aplicação, sendo uma entrega para a disciplina de Linguagem de programação para a Internet.
 
 ## Available Scripts
 
